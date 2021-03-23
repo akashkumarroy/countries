@@ -1,0 +1,32 @@
+.jumbotron{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+BODY{
+  background: url("https://t3.ftcdn.net/jpg/03/57/88/92/360_F_357889247_AhWP85We5iJotGK9ulTjuwiiFXiBpQQq.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-size: 20px;
+  font-family: serif;
+  text-shadow: 2px 2px 5px white;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    box-shadow: 2px 2px 5px white;
+  }
+p{
+  text-align: center;
+}
+.container{
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#mid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
